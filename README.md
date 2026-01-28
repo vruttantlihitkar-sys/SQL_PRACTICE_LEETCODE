@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/vruttantlihitkar-sys/SQL_PRACTICE_LEETCODE/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/vruttantlihitkar-sys/SQL_PRACTICE_LEETCODE/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/vruttantlihitkar-sys/SQL_PRACTICE_LEETCODE/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/vruttantlihitkar-sys/SQL_PRACTICE_LEETCODE/tree/master/0610-triangle-judgement) |
 | [1068-product-sales-analysis-i](https://github.com/vruttantlihitkar-sys/SQL_PRACTICE_LEETCODE/tree/master/1068-product-sales-analysis-i) |
 | [1280-students-and-examinations](https://github.com/vruttantlihitkar-sys/SQL_PRACTICE_LEETCODE/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vruttantlihitkar-sys/SQL_PRACTICE_LEETCODE/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
