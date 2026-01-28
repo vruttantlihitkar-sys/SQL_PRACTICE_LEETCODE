@@ -1,0 +1,7 @@
+select customer_number 
+from  
+(select customer_number , count(*) as x
+from orders
+group by customer_number
+order by x desc
+limit 1 ) t
