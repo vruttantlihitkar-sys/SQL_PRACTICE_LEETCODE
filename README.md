@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/vruttantlihitkar-sys/SQL_PRACTICE_LEETCODE/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/vruttantlihitkar-sys/SQL_PRACTICE_LEETCODE/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/vruttantlihitkar-sys/SQL_PRACTICE_LEETCODE/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/vruttantlihitkar-sys/SQL_PRACTICE_LEETCODE/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/vruttantlihitkar-sys/SQL_PRACTICE_LEETCODE/tree/master/0511-game-play-analysis-i) |
