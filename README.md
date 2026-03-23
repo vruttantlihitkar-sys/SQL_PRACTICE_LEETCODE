@@ -36,4 +36,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/vruttantlihitkar-sys/SQL_PRACTICE_LEETCODE/tree/master/1683-invalid-tweets) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/vruttantlihitkar-sys/SQL_PRACTICE_LEETCODE/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/vruttantlihitkar-sys/SQL_PRACTICE_LEETCODE/tree/master/1741-find-total-time-spent-by-each-employee) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vruttantlihitkar-sys/SQL_PRACTICE_LEETCODE/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
