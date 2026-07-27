@@ -41,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/vruttantlihitkar-sys/SQL_PRACTICE_LEETCODE/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vruttantlihitkar-sys/SQL_PRACTICE_LEETCODE/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3436-find-valid-emails](https://github.com/vruttantlihitkar-sys/SQL_PRACTICE_LEETCODE/tree/master/3436-find-valid-emails) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vruttantlihitkar-sys/SQL_PRACTICE_LEETCODE/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vruttantlihitkar-sys/SQL_PRACTICE_LEETCODE/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
